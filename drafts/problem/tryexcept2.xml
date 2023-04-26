@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Which of the following is an example of a try and except statement in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">for i in range(0, 10):</choice>
+<choice correct="false">try:</choice>
+<choice correct="false">def:</choice>
+<choice correct="true">try: except:</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

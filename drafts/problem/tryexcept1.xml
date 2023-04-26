@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the purpose of the try and except blocks in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">To access files</choice>
+<choice correct="false">To generate errors</choice>
+<choice correct="true">To handle errors</choice>
+<choice correct="false">To create classes</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

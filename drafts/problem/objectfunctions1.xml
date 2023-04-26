@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the syntax to call a function in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">func()</choice>
+<choice correct="false">def()</choice>
+<choice correct="false">function()</choice>
+<choice correct="false">func:</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

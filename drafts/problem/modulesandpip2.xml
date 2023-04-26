@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What does Pip stand for?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">Package Installer for Python</choice>
+<choice correct="false">Python Installer for Packages</choice>
+<choice correct="false">Package Installer for Packages</choice>
+<choice correct="false">Python Installer for Python</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

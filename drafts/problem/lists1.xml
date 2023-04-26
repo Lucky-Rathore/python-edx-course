@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the syntax to access an element of a list?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">list[index]</choice>
+<choice correct="false">list[element]</choice>
+<choice correct="false">list(index)</choice>
+<choice correct="false">list(element)</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

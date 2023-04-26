@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>How can you read a text file in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">open(filename, 'r')</choice>
+<choice correct="false">open(filename, 'w')</choice>
+<choice correct="false">open(filename, 'a')</choice>
+<choice correct="false">open(filename, 'b')</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

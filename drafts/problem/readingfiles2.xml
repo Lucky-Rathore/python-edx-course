@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What does the 'a' mode stands for in a file opening?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">Append</choice>
+<choice correct="false">Alter</choice>
+<choice correct="false">Access</choice>
+<choice correct="false">Atomize</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

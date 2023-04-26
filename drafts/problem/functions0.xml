@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is a function in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">A sequence of instructions</choice>
+<choice correct="true">A block of code that can be called multiple times</choice>
+<choice correct="false">A variable that stores a value</choice>
+<choice correct="false">A list of values</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

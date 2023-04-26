@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the correct way to check if two variables are not equal in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">x = y</choice>
+<choice correct="false">x == y</choice>
+<choice correct="true">x != y</choice>
+<choice correct="false">x <> y</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

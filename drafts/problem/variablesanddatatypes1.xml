@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the data type of variable y, if y = 'Hello World'?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">string</choice>
+<choice correct="false">integer</choice>
+<choice correct="false">float</choice>
+<choice correct="false">boolean</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

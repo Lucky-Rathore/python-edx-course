@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the purpose of Python Interpreter?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">To compile programs</choice>
+<choice correct="false">To debug programs</choice>
+<choice correct="false">To interpret programs</choice>
+<choice correct="true">To encrypt programs</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

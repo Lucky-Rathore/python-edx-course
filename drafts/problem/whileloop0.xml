@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>In Python, what type of loop is used to repeat an action until a certain condition is met?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">for loop</choice>
+<choice correct="true">while loop</choice>
+<choice correct="false">do-while loop</choice>
+<choice correct="false">none of the above</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the default mode to open a file in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">'r' mode</choice>
+<choice correct="false">'w' mode</choice>
+<choice correct="false">'a' mode</choice>
+<choice correct="false">'b' mode</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

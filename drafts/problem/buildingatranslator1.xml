@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What are the topics covered in the Python: Building a Translator course?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Basics of programming in Python</choice>
+<choice correct="false">Intermediate Python programming</choice>
+<choice correct="false">Advanced Python programming</choice>
+<choice correct="true">Building a translator with Python</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

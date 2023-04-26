@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is meant by a 2D list in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">A single list containing multiple items</choice>
+<choice correct="true">A list of lists containing multiple items</choice>
+<choice correct="false">A list of lists containing different data types</choice>
+<choice correct="false">A single list containing different data types</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

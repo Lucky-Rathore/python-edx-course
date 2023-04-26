@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the primary challenge when creating a calculator program?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Designing the interface</choice>
+<choice correct="false">Inputting the data</choice>
+<choice correct="true">Executing the logic</choice>
+<choice correct="false">Testing the program</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>How do you print 'Hello World!' in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">printf('Hello World!')</choice>
+<choice correct="false">System.out.println('Hello World!')</choice>
+<choice correct="true">print('Hello World!')</choice>
+<choice correct="false">echo 'Hello World!'</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

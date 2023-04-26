@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the syntax for calling a function?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">call name()</choice>
+<choice correct="true">name()</choice>
+<choice correct="false">function name()</choice>
+<choice correct="false">function name:</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

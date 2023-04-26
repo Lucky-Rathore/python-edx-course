@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the syntax for creating a dictionary in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">dict()</choice>
+<choice correct="true">{}</choice>
+<choice correct="false">()</choice>
+<choice correct="false">[]</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>When should you use a for loop in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">When you want to execute a set of instructions multiple times</choice>
+<choice correct="false">When you need to create a variable</choice>
+<choice correct="false">When you want to print a statement</choice>
+<choice correct="false">When you need to call a function</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

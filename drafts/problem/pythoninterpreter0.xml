@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is Python Interpreter?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">A programming language</choice>
+<choice correct="true">A software application</choice>
+<choice correct="false">A type of computer hardware</choice>
+<choice correct="false">A web browser</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

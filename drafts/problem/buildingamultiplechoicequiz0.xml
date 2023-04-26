@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What language is used to build a Multiple Choice Quiz?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">C#</choice>
+<choice correct="false">JavaScript</choice>
+<choice correct="true">Python</choice>
+<choice correct="false">PHP</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

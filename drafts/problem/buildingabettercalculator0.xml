@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the main focus of the article 'Python: Building a Better Calculator'?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Learning Python</choice>
+<choice correct="true">Creating a calculator program</choice>
+<choice correct="false">Developing a new calculator</choice>
+<choice correct="false">Writing a mathematical equation</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

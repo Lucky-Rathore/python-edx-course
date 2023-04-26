@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the most common way to create a shape in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Writing a program to draw the shape</choice>
+<choice correct="false">Manually drawing the shape</choice>
+<choice correct="false">Using a library of shapes</choice>
+<choice correct="true">Using coordinates</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

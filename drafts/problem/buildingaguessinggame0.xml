@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What type of game is Python used for?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">shooting</choice>
+<choice correct="false">word</choice>
+<choice correct="true">guessing</choice>
+<choice correct="false">strategy</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

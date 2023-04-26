@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the goal of Python: Mad Libs Game?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">To create a story</choice>
+<choice correct="false">To complete a puzzle</choice>
+<choice correct="false">To finish a program</choice>
+<choice correct="false">To win points</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

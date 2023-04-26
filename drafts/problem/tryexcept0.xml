@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the syntax for try and except in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">try: except</choice>
+<choice correct="false">try() except()</choice>
+<choice correct="true">try: except:</choice>
+<choice correct="false">try() except:</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

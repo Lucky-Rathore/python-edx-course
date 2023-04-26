@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What do you need to specify in order to draw a shape in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">Size and color</choice>
+<choice correct="false">Dimensions and colour</choice>
+<choice correct="false">Coordinates and type</choice>
+<choice correct="false">Coordinates and colour</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

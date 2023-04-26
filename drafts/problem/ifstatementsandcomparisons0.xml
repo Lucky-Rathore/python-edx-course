@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Which of the following is an example of an if statement in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">if (x == 5)</choice>
+<choice correct="false">if x = 5</choice>
+<choice correct="false">if x == 5</choice>
+<choice correct="false">if x 5</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

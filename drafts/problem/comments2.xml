@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Can you nest comments in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Yes</choice>
+<choice correct="true">No</choice>
+<choice correct="false">Sometimes</choice>
+<choice correct="false">Depends on the situation</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

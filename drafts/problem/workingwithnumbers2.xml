@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the result of the statement 3 + 4?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">7</choice>
+<choice correct="false">12</choice>
+<choice correct="false">34</choice>
+<choice correct="false">None of the above</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

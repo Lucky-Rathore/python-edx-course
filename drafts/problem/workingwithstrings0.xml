@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the built-in function in Python to check if a string is upper case?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">isupper()</choice>
+<choice correct="false">islower()</choice>
+<choice correct="false">isspace()</choice>
+<choice correct="false">isdigit()</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

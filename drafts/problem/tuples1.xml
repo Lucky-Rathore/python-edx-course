@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Are tuples ordered?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">yes</choice>
+<choice correct="false">no</choice>
+<choice correct="false">sometimes</choice>
+<choice correct="false">it depends</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

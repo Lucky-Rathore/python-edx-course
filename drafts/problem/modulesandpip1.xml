@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>How do you install a module in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Using the import command</choice>
+<choice correct="true">Using the pip command</choice>
+<choice correct="false">Using the download command</choice>
+<choice correct="false">Using the install command</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

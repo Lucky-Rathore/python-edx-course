@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What are the two main versions of Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">Python 2 and Python 3</choice>
+<choice correct="false">Python Lite and Python Pro</choice>
+<choice correct="false">Python for Mac and Python for Windows</choice>
+<choice correct="false">Python for Adults and Python for Kids</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

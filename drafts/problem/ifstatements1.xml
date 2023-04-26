@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the syntax of an 'if' statement?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">if condition:</choice>
+<choice correct="false">if condition statement</choice>
+<choice correct="false">if: condition</choice>
+<choice correct="false">if (condition):</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

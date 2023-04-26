@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the correct syntax for an if-else statement?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">if (condition) {statement1} else {statment2}</choice>
+<choice correct="false">if condition: statement1 else: statement2</choice>
+<choice correct="true">if (condition): statement1 else statement2</choice>
+<choice correct="false">if condition {statement1} else {statement2}</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

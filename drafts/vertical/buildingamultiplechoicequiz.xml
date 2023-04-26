@@ -1,0 +1,6 @@
+
+  <vertical display_name="Building a Multiple Choice Quiz quiz" parent_url="block-v1:getfreecertificate+PY101+2023_01+type@sequential+block@16aefc41a6384342bff96ee71aced473" index_in_children_list="10">
+    <problem url_name="buildingamultiplechoicequiz0"/>
+<problem url_name="buildingamultiplechoicequiz1"/>
+<problem url_name="buildingamultiplechoicequiz2"/>
+  </vertical>

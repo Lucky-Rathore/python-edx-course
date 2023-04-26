@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is PyCharm?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">A programming language</choice>
+<choice correct="false">A text editor</choice>
+<choice correct="true">An IDE for Python</choice>
+<choice correct="false">A package manager</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

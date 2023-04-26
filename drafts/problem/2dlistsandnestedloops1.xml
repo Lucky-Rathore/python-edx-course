@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is nested loop?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Two loops inside one loop</choice>
+<choice correct="true">A loop inside a loop</choice>
+<choice correct="false">A loop inside an if statement</choice>
+<choice correct="false">Two if statements inside a loop</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

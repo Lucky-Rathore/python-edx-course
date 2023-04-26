@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the exponent of 8 to the power of 2?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">4</choice>
+<choice correct="true">16</choice>
+<choice correct="false">32</choice>
+<choice correct="false">64</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Which of the following is the correct way to open a file for writing in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">open('file.txt', 'wr')</choice>
+<choice correct="true">open('file.txt', 'w')</choice>
+<choice correct="false">open('file.txt', 'write')</choice>
+<choice correct="false">open('file.txt', 'writing')</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

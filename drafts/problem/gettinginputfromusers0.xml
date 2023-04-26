@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>How can Python get input from users?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">By printing a question</choice>
+<choice correct="true">By using the input() function</choice>
+<choice correct="false">By using the raw_input() function</choice>
+<choice correct="false">By making a request</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

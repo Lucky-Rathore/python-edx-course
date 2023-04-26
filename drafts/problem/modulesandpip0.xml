@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is a Module in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">A file containing Python functions and statements</choice>
+<choice correct="false">A directory containing Python functions and statements</choice>
+<choice correct="false">A function containing Python functions and statements</choice>
+<choice correct="false">A file containing Python classes and objects</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

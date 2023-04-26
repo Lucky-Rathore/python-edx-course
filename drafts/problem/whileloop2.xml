@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the order of operations for a while loop in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Condition -> Code -> Increment</choice>
+<choice correct="false">Increment -> Code -> Condition</choice>
+<choice correct="true">Code -> Condition -> Increment</choice>
+<choice correct="false">Condition -> Increment -> Code</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

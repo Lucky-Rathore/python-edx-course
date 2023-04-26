@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What do you need to install in order to use Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Python only</choice>
+<choice correct="true">Python and PyCharm</choice>
+<choice correct="false">PyCharm only</choice>
+<choice correct="false">None of the above</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

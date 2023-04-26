@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the built-in function in Python to remove whitespace from the beginning and end of a string?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">remove()</choice>
+<choice correct="true">strip()</choice>
+<choice correct="false">capitalize()</choice>
+<choice correct="false">istitle()</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>How do you define a function?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">def name():</choice>
+<choice correct="false">name():</choice>
+<choice correct="false">def():</choice>
+<choice correct="false">def name()</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

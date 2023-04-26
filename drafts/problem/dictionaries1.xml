@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What type of data can be stored in a Python dictionary?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Strings</choice>
+<choice correct="false">Integers</choice>
+<choice correct="false">Booleans</choice>
+<choice correct="true">All of the above</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

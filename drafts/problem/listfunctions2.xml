@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Which of the following is not a List Function?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">pop()</choice>
+<choice correct="true">split()</choice>
+<choice correct="false">append()</choice>
+<choice correct="false">list()</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

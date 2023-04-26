@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What type of data structure is a Python list?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Integer</choice>
+<choice correct="false">String</choice>
+<choice correct="false">Tuple</choice>
+<choice correct="true">List</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

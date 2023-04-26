@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>How do you start a comment in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">#</choice>
+<choice correct="false">//</choice>
+<choice correct="false">/*</choice>
+<choice correct="false">**</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

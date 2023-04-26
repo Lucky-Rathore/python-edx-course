@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What type of language is Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">Object-oriented</choice>
+<choice correct="false">Functional</choice>
+<choice correct="false">Procedural</choice>
+<choice correct="false">Logical</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

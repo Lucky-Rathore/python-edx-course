@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the purpose of inheritance in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">It allows code to be reused</choice>
+<choice correct="false">It allows code to be shared</choice>
+<choice correct="false">It allows classes to be reused</choice>
+<choice correct="false">It allows classes to be shared</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

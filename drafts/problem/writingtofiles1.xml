@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Which of the following is the correct way to create a new file in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">open('file.txt', 'new')</choice>
+<choice correct="true">open('file.txt', 'w+')</choice>
+<choice correct="false">open('file.txt', 'create')</choice>
+<choice correct="false">open('file.txt', 'n')</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

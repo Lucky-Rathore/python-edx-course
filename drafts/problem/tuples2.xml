@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Can tuple elements be modified?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">yes</choice>
+<choice correct="true">no</choice>
+<choice correct="false">sometimes</choice>
+<choice correct="false">it depends</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

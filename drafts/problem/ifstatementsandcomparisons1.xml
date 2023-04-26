@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the correct syntax for comparing two variables in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">x == y</choice>
+<choice correct="false">x = y</choice>
+<choice correct="false">x is y</choice>
+<choice correct="false">x = = y</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is inheritance in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">A process of inheriting methods from parent class</choice>
+<choice correct="false">A method of distributing an object's variables and methods to other classes</choice>
+<choice correct="false">A process of inheriting variables from parent class</choice>
+<choice correct="true">A way of creating new classes from existing classes</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

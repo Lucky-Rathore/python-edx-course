@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>When is the return statement used in python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">When a condition is met</choice>
+<choice correct="true">At the end of a function</choice>
+<choice correct="false">When a loop is completed</choice>
+<choice correct="false">When a variable is declared</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

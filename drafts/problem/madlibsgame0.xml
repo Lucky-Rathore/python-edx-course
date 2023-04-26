@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is Python: Mad Libs Game?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">A type of computer game</choice>
+<choice correct="true">A game where players fill in blanks with words of their choice</choice>
+<choice correct="false">A game that uses Python language</choice>
+<choice correct="false">A game that uses algorithms</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

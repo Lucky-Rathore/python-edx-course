@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the purpose of a return statement in python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">To end the function</choice>
+<choice correct="true">To return a value from the function</choice>
+<choice correct="false">To print a value from the function</choice>
+<choice correct="false">To execute a function</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

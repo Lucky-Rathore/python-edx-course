@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the syntax of the exponent function in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Math.exp(x)</choice>
+<choice correct="true">math.pow(x)</choice>
+<choice correct="false">math.sqrt(x)</choice>
+<choice correct="false">math.power(x)</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

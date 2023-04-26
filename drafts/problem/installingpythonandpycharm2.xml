@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Where can you download Python and PyCharm?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Python website</choice>
+<choice correct="false">PyCharm website</choice>
+<choice correct="true">Both websites</choice>
+<choice correct="false">None of the above</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

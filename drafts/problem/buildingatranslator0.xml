@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the main purpose of the Python: Building a Translator course?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Teaching how to use Python programming language</choice>
+<choice correct="true">Teaching how to build a translator using Python</choice>
+<choice correct="false">Teaching how to use Python for data analysis</choice>
+<choice correct="false">Teaching how to use Python for web development</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

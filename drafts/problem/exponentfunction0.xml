@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What does the exponent function do in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Calculates the area of a triangle</choice>
+<choice correct="false">Calculates the volume of a cube</choice>
+<choice correct="true">Calculates the power of a number</choice>
+<choice correct="false">Calculates the square root of a number</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

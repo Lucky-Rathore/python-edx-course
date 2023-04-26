@@ -1,0 +1,84 @@
+{
+    "course/2023_01": {
+        "cert_html_view_enabled": true,
+        "cert_name_long": "Python - Full Course for Beginners Certificate",
+        "cert_name_short": "Python Course Certificate",
+        "certificates": {
+            "certificates": [
+                {
+                    "description": "Description of the certificate",
+                    "id": 1563084994,
+                    "is_active": false,
+                    "name": "Name of the certificate",
+                    "signatories": [
+                        {
+                            "certificate": 1563084994,
+                            "id": 1725240044,
+                            "name": "",
+                            "organization": "get free certificate",
+                            "signature_image_path": "",
+                            "title": ""
+                        }
+                    ],
+                    "version": 1
+                }
+            ]
+        },
+        "certificates_show_before_end": true,
+        "course_image": "hitesh-choudhary-D9Zow2REm8U-unsplash.jpg",
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        },
+        "display_name": "Learn Python - Full Course for Beginners [Tutorial]",
+        "graceperiod": "36000 seconds",
+        "instructor_info": {
+            "instructors": []
+        },
+        "language": "en",
+        "learning_info": [],
+        "minimum_grade_credit": 0.8,
+        "self_paced": true,
+        "start": "2030-01-01T00:00:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Dates",
+                "type": "dates"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Wiki",
+                "type": "wiki"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "textbooks"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Empty",
+                "type": "static_tab",
+                "url_slug": "af9c9fca11fa4291a9f3160a9cb1f539"
+            }
+        ]
+    }
+}

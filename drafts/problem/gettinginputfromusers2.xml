@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Which function is used to get input from user in Python 2?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">input()</choice>
+<choice correct="true">raw_input()</choice>
+<choice correct="false">Input()</choice>
+<choice correct="false">RawInput()</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

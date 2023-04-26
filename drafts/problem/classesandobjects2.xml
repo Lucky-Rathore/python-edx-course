@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is an object in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">A variable</choice>
+<choice correct="true">An instance of a class</choice>
+<choice correct="false">A function</choice>
+<choice correct="false">A collection of data and methods</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

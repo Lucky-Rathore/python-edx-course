@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the purpose of comments in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">To run the code</choice>
+<choice correct="true">To provide information to the reader</choice>
+<choice correct="false">To provide instructions to the computer</choice>
+<choice correct="false">To debug the code</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

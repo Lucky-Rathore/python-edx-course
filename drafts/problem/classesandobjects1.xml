@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the purpose of a class in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">To define custom data types</choice>
+<choice correct="false">To store variables</choice>
+<choice correct="false">To define a function</choice>
+<choice correct="false">To define a module</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

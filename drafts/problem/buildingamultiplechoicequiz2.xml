@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the main purpose of building a multiple choice quiz?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">Testing Knowledge</choice>
+<choice correct="false">Gathering Data</choice>
+<choice correct="false">Increasing Engagement</choice>
+<choice correct="false">Improving Performance</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

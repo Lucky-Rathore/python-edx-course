@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Which of the following is an example of inheritance in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Class A inheriting variables from Class B</choice>
+<choice correct="false">Class A inheriting methods from Class B</choice>
+<choice correct="true">Class A inheriting variables and methods from Class B</choice>
+<choice correct="false">Class A inheriting attributes from Class B</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

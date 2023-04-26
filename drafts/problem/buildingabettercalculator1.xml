@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What language is used in the article 'Python: Building a Better Calculator'?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">JavaScript</choice>
+<choice correct="false">C++</choice>
+<choice correct="true">Python</choice>
+<choice correct="false">Ruby</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

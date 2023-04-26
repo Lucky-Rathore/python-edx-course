@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What does a for loop do in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Prints a statement</choice>
+<choice correct="true">Executes a block of code for a given number of times</choice>
+<choice correct="false">Prints a value</choice>
+<choice correct="false">Deletes a variable</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

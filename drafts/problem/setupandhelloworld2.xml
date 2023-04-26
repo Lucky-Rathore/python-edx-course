@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the output of the following code? print('Hello', 'World!')</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">Hello World!</choice>
+<choice correct="false">Hello</choice>
+<choice correct="false">World!</choice>
+<choice correct="false">Error</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

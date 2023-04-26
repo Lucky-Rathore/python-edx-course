@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What do you need to draw a shape in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">A library</choice>
+<choice correct="false">A drawing tool</choice>
+<choice correct="true">A list of coordinates</choice>
+<choice correct="false">A pencil</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

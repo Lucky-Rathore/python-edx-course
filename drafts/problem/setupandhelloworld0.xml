@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Which of the following is a prerequisite for running Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">A text editor</choice>
+<choice correct="false">An internet connection</choice>
+<choice correct="true">An interpreter</choice>
+<choice correct="false">A web browser</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

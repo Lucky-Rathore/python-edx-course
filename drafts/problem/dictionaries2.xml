@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>How do you access a value from a Python dictionary?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">dict[key]</choice>
+<choice correct="false">dictionary.key</choice>
+<choice correct="true">dictionary[key]</choice>
+<choice correct="false">dictionary.value</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

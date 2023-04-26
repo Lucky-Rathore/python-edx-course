@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the syntax of a while loop in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">while (condition):</choice>
+<choice correct="false">while condition do</choice>
+<choice correct="false">while (condition) do</choice>
+<choice correct="false">while: condition</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

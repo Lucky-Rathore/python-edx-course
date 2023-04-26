@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What type of data structure is used to store the quiz questions and answers?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Linked List</choice>
+<choice correct="false">Array</choice>
+<choice correct="true">Dictionary</choice>
+<choice correct="false">Tree</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

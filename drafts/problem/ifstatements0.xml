@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What does the 'if' statement do in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">Creates boolean values</choice>
+<choice correct="false">Deletes variables</choice>
+<choice correct="true">Checks whether a condition is true or true</choice>
+<choice correct="false">Provides a loop structure</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

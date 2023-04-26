@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>What is the main goal of a Guessing Game?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="true">guess the right answer</choice>
+<choice correct="false">guess the wrong answer</choice>
+<choice correct="false">guess the right number</choice>
+<choice correct="false">guess the wrong number</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>

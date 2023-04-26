@@ -1,0 +1,12 @@
+
+      <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>  
+          <question>Which of the following is the correct way to append an existing file in Python?</question>
+          <choicegroup type="MultipleChoice">
+            <choice correct="false">open('file.txt', 'append')</choice>
+<choice correct="true">open('file.txt', 'a+')</choice>
+<choice correct="false">open('file.txt', 'add')</choice>
+<choice correct="false">open('file.txt', 'ap')</choice>
+          </choicegroup>
+        </multiplechoiceresponse> 
+      </problem>
